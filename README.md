@@ -2,3 +2,5 @@
 This is my first repository
 <br>
 is about netaji.
+Author Veeranna G S
+
