@@ -1,0 +1,21 @@
+ h1{
+            color: yellowgreen;
+            background-color: rgb(58, 50, 66);
+
+        }
+a{
+    color: black;
+}
+p{
+    color: blue;
+}
+h2{
+    color: chocolate;
+}
+h2,h3{
+    color: red;
+}
+button{
+    color: rgb(55, 55, 12);
+    background-color: blue;
+}
